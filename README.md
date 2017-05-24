@@ -4,7 +4,7 @@
 #### 目的：练习 C++ template编程和数据结构和算法
 #### 编译环境：Visual Studio 2015
 #### 开发计划
-* STL基本组件： string，vector，deque，queue，stack，priority_queue，list，set，map，unordered_set ，unordered_map 
+* STL基本组件： string，vector，deque，list，set，map，unordered_set ，unordered_map 
 * STL算法库部分算法实现
 * 智能指针：shared_ptr，unique_ptr，weak_ptr
 * bitmap
