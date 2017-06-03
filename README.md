@@ -27,5 +27,9 @@
 * unorderde_map: 100%
 * unique_ptr: 100%
 * shared_ptr: 100%
-* 
+* STL大部分算法
+* AVL Tree: 100%
+* Bitmap: 100%
+* Union-find Set: 100%
+* BinarySearchTree: 100%
   
