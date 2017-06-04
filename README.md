@@ -7,10 +7,13 @@
 * STL基本组件： string，vector，deque，list，set，map，unordered_set ，unordered_map 
 * STL算法库部分算法实现
 * 智能指针：shared_ptr，unique_ptr，weak_ptr
-* bitmap
+* Bitmap
 * binary search tree
 * AVL tree
 * Disjoint-set data structure
+* RB-Tree
+* B-Tree
+* Skiplist
 
 #### 完成进度
 * type traits: 100%
