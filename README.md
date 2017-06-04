@@ -8,7 +8,7 @@
 * STL算法库部分算法实现
 * 智能指针：shared_ptr，unique_ptr，weak_ptr
 * Bitmap
-* binary search tree
+* Binary Search Tree
 * AVL tree
 * Disjoint-set data structure
 * RB-Tree
