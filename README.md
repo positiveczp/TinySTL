@@ -9,7 +9,7 @@
 * 智能指针：shared_ptr，unique_ptr，weak_ptr
 * Bitmap
 * Binary Search Tree
-* AVL tree
+* AVL-Tree
 * Disjoint-set data structure
 * RB-Tree
 * B-Tree
@@ -31,7 +31,7 @@
 * unique_ptr: 100%
 * shared_ptr: 100%
 * STL大部分算法
-* AVL Tree: 100%
+* AVL-Tree: 100%
 * Bitmap: 100%
 * Union-find Set: 100%
 * BinarySearchTree: 100%
